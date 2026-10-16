@@ -34,7 +34,15 @@ Jesús gobierna la interpretación de cada capítulo, pero no es un catálogo de
 
 - **Los hechos son una cosa y la interpretación es otra.** El dato va como dato. La interpretación va como «me parece». Lo que no se sabe, se dice.
 - Nunca se inventa un hecho para reforzar una convicción, ni pensamientos o diagnósticos de los personajes.
-- Lo que juega en contra se nombra: «no quiero esconder esta frase. Pero…».
+- Lo que juega en contra se nombra: «no quiero esconder esta frase. Pero…». Y después no se cierra con una frase que lo borre.
+- Trampas típicas de la voz directa:
+  - «eligió» donde el texto dice «anunció»;
+  - «él cree que…» donde el texto sólo muestra lo que hace;
+  - «no vino del cielo» donde el texto sólo calla («el relato no registra…»);
+  - ambigüedades cerradas a la fuerza;
+  - adjetivos que caricaturizan.
+  
+  El dato suele ser más fuerte que el adorno.
 - Las citas bíblicas van en traducción propia o en el Nuevo Testamento de David Bentley Hart, según el libro, y se respetan letra por letra.
 - Elena G. White no se usa como fuente, salvo pedido concreto del autor.
 
