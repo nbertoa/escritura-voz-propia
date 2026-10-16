@@ -15,7 +15,7 @@ No define el formato del libro (maquetación, portada, índice), que vive en otr
 | [`FUENTES.md`](FUENTES.md) | ¿Qué Biblia se cita y qué fuentes no se usan? |
 | [`EJEMPLOS.md`](EJEMPLOS.md) | ¿Cómo se ve la voz en pares «así no / así sí»? |
 | [`VERIFICACION.md`](VERIFICACION.md) | ¿Qué se revisa antes de entregar un texto? |
-| [`skill/SKILL.md`](skill/SKILL.md) | La versión corta para cargar como skill en Claude o como instrucciones en ChatGPT. |
+| [`skill/SKILL.md`](skill/SKILL.md) | La skill: apunta a este repositorio para que las reglas se cambien sólo acá. Sirve igual como instrucciones en ChatGPT. |
 
 ## ¿Cuál es el ejemplo de referencia?
 

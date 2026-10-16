@@ -5,52 +5,31 @@ description: Escribir, reescribir o editar cualquier libro o texto de Nicolás B
 
 # Escritura con voz propia
 
-La guía completa vive en **https://github.com/nbertoa/escritura-voz-propia** (voz y estilo) y en **https://github.com/nbertoa/jesus-como-filtro** (el filtro: `FILTRO-PARA-ESCRIBIR.md`, D-013, D-014). Si hay acceso, se leen antes de escribir. El repositorio gana sobre este resumen si difieren. Si no hay acceso, alcanzan estas reglas.
+Las reglas viven en los repositorios, no en esta skill. **Antes de escribir, editar o revisar, leé estos archivos completos.** Son públicos: si no hay GitHub conectado, se leen por web.
 
-Ejemplo de referencia del tono: https://github.com/nbertoa/elias-a-la-luz-de-jesus/tree/main/manuscript. Los libros anteriores no se usan como modelo.
+**Voz y estilo:** https://github.com/nbertoa/escritura-voz-propia
+- https://raw.githubusercontent.com/nbertoa/escritura-voz-propia/main/VOZ.md
+- https://raw.githubusercontent.com/nbertoa/escritura-voz-propia/main/ESTILO.md
+- https://raw.githubusercontent.com/nbertoa/escritura-voz-propia/main/HECHOS-E-INTERPRETACION.md
+- https://raw.githubusercontent.com/nbertoa/escritura-voz-propia/main/TIPOS-DE-LIBRO.md
+- https://raw.githubusercontent.com/nbertoa/escritura-voz-propia/main/FUENTES.md
+- https://raw.githubusercontent.com/nbertoa/escritura-voz-propia/main/EJEMPLOS.md
+- https://raw.githubusercontent.com/nbertoa/escritura-voz-propia/main/VERIFICACION.md
 
-## ¿Cuál es la regla más importante?
+**Jesús como filtro:** https://github.com/nbertoa/jesus-como-filtro
+- https://raw.githubusercontent.com/nbertoa/jesus-como-filtro/main/FILTRO-PARA-ESCRIBIR.md
+- https://raw.githubusercontent.com/nbertoa/jesus-como-filtro/main/DECISIONS.md (D-013 y D-014)
 
-**Jesús es el filtro de todo:** su persona, sus obras y sus palabras en los cuatro Evangelios. Pablo, Pedro, las cartas de Juan, el Apocalipsis y el Antiguo Testamento no son el filtro; se leen a través de él.
+**Ejemplo de tono:** https://github.com/nbertoa/elias-a-la-luz-de-jesus/tree/main/manuscript
 
-El autor ve a Jesús como médico, restaurador, protector, compañero y amigo, no como juez ni como alguien que castiga. Es su convicción, y se dice como tal.
+Si el repositorio y esta skill difieren, gana el repositorio. Esta skill no se actualiza cuando cambian las reglas: se actualizan los repositorios.
 
-Jesús gobierna la interpretación de cada capítulo, pero no es un catálogo de versículos: la escena de los Evangelios aparece donde la comparación aporta algo. Ningún texto puede presentar como retrato de Dios algo que Jesús reprendió, detuvo o se negó a hacer. Jesús no es más bueno que el Padre: muestra cómo es el Padre.
+## ¿Y si no se pueden leer?
 
-## ¿Cómo suena?
+Avisarle a Nicolás que no se pudo leer la guía, y mientras tanto respetar lo esencial:
 
-1. **Directo y al grano.** La postura va desde la primera página. Nada de vueltas, adornos ni párrafos que repiten el anterior.
-2. **Primera persona del singular para opinar:** «yo creo», «a mí me parece», «no quiero esconder esta frase». El plural sólo guía al lector («ahora vamos a ver», «fijémonos») o incluye a todos («la imagen que tenemos de Dios»).
-3. **Afirma con humildad:** «me parece», «creo que», «no parece que sea así». Nunca «quizás», «tal vez» o «algunos creen» para esconderse. Es la postura del autor según lo que sabe hoy, no la verdad definitiva.
-4. **Toma postura sin querer quedar bien con todos**, y sin miedo al status quo ni a incomodar.
-5. **No se pone como medida de nada.** Sin autobiografía, sin ser ejemplo ni contraejemplo, sin falsa humildad.
-6. **No se compara con nadie** («casi nadie mira») y no habla desde arriba ni le advierte al lector.
-7. **No caricaturiza ni ridiculiza** a nadie ni a ninguna postura contraria, y nunca lo vuelve personal.
-8. **Pregunta como un chico curioso:** muchas preguntas, punzantes y con dirección («¿No dijo Jesús que…?», «¿Dios mata?»). Todos los títulos y subtítulos son preguntas. Cada capítulo cierra con una pregunta o con una línea final que deja abierta la pregunta, nunca con una pregunta floja agregada para cumplir.
-9. **Prosa llana:** frases cortas, palabras de todos los días, apta para audio. Español neutro, sin voseo.
-10. **Lo más corto posible.** Nada de monografías.
-
-## ¿Cómo se mantiene honesta?
-
-- **Los hechos son una cosa y la interpretación es otra.** El dato va como dato. La interpretación va como «me parece». Lo que no se sabe, se dice.
-- Nunca se inventa un hecho para reforzar una convicción, ni pensamientos o diagnósticos de los personajes.
-- Lo que juega en contra se nombra: «no quiero esconder esta frase. Pero…». Y después no se cierra con una frase que lo borre.
-- Trampas típicas de la voz directa:
-  - «eligió» donde el texto dice «anunció»;
-  - «él cree que…» donde el texto sólo muestra lo que hace;
-  - «no vino del cielo» donde el texto sólo calla («el relato no registra…»);
-  - ambigüedades cerradas a la fuerza;
-  - adjetivos que caricaturizan.
-  
-  El dato suele ser más fuerte que el adorno.
-- Las citas bíblicas van en traducción propia o en el Nuevo Testamento de David Bentley Hart, según el libro, y se respetan letra por letra.
-- Elena G. White no se usa como fuente, salvo pedido concreto del autor.
-
-## ¿Qué cambia según el tipo de libro?
-
-- **Narrativo-contemplativo:** en cada escena se ve la imagen de Dios que hay detrás, la equivocada y la que está cierta, y qué hace con las personas. Se narra sólo lo necesario. Se es justo con el personaje.
-- **Investigación:** se examina y se toma la postura del autor, analizada. Las posturas contrarias se presentan en su mejor versión y se responden. Avanza pregunta → respuesta → siguiente pregunta.
-
-## ¿Qué se revisa antes de entregar?
-
-Primera persona y «me parece» en las opiniones. Ningún «quizás», comparación, autobiografía ni repetición. Títulos en forma de pregunta. Hechos verificados y contraevidencia nombrada. Citas exactas. Jesús gobernando la interpretación de cada capítulo, y explícito donde la comparación aporta. Lista completa en `VERIFICACION.md` del repositorio.
+1. **Jesús, según los cuatro Evangelios, es el filtro de todo.**
+2. **Primera persona del singular para opinar** («yo creo», «a mí me parece»), con humildad y sin «quizás».
+3. **Los hechos son una cosa y la interpretación es otra.** Nunca se inventan hechos ni pensamientos de los personajes, y lo que juega en contra se nombra.
+4. **Directo, corto y llano**, sin adornos ni repeticiones.
+5. **Títulos en forma de pregunta**, y preguntas incómodas a lo largo del texto.
