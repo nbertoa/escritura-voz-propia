@@ -20,3 +20,14 @@ Otros pueden tener interpretaciones distintas, y está bien. Pero en el libro va
 ## ¿Qué pasa con la agencia divina?
 
 No se usa «Dios lo hizo» de forma simplista, ni Satanás como explicación automática. Se nombra lo que el texto atribuye, se dice lo que no se sabe y no se usa ninguna teoría para pasar por encima de las personas que sufrieron.
+
+## ¿Dónde suele colarse una interpretación como si fuera hecho?
+
+Una auditoría externa del libro de Elías encontró estos patrones. Son los primeros que hay que revisar:
+
+- **Agencia:** «Elías eligió la sequía» en vez de «Elías anunció y pidió la sequía».
+- **Interioridad:** «Elías cree que…», «tenían el ejemplo en la cabeza», «hizo falta que se lo dijeran en la cara». En vez de eso, va lo que el relato muestra o un «me parece».
+- **Silencio del texto convertido en negación:** «la orden no vino del cielo» en vez de «el relato no registra una orden de Dios».
+- **Generalizar por encima de la contraevidencia:** después de nombrar un texto que juega en contra, no cerrar con una frase que lo borre.
+- **Ambigüedades cerradas a la fuerza:** cuando una frase admite dos lecturas, se nombran las dos antes de tomar postura («si lo tomamos literalmente…»).
+- **Adornos que caricaturizan:** «hace un berrinche». El dato suele ser más fuerte que el adjetivo.

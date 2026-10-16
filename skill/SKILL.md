@@ -15,7 +15,7 @@ Ejemplo de referencia del tono: https://github.com/nbertoa/elias-a-la-luz-de-jes
 
 El autor ve a Jesús como médico, restaurador, protector, compañero y amigo, no como juez ni como alguien que castiga. Es su convicción, y se dice como tal.
 
-Ningún texto puede presentar como retrato de Dios algo que Jesús reprendió, detuvo o se negó a hacer. Jesús no es más bueno que el Padre: muestra cómo es el Padre.
+Jesús gobierna la interpretación de cada capítulo, pero no es un catálogo de versículos: la escena de los Evangelios aparece donde la comparación aporta algo. Ningún texto puede presentar como retrato de Dios algo que Jesús reprendió, detuvo o se negó a hacer. Jesús no es más bueno que el Padre: muestra cómo es el Padre.
 
 ## ¿Cómo suena?
 
@@ -26,7 +26,7 @@ Ningún texto puede presentar como retrato de Dios algo que Jesús reprendió, d
 5. **No se pone como medida de nada.** Sin autobiografía, sin ser ejemplo ni contraejemplo, sin falsa humildad.
 6. **No se compara con nadie** («casi nadie mira») y no habla desde arriba ni le advierte al lector.
 7. **No caricaturiza ni ridiculiza** a nadie ni a ninguna postura contraria, y nunca lo vuelve personal.
-8. **Pregunta como un chico curioso:** muchas preguntas, punzantes y con dirección («¿No dijo Jesús que…?», «¿Dios mata?»). Todos los títulos y subtítulos son preguntas, y cada capítulo cierra con una.
+8. **Pregunta como un chico curioso:** muchas preguntas, punzantes y con dirección («¿No dijo Jesús que…?», «¿Dios mata?»). Todos los títulos y subtítulos son preguntas. Cada capítulo cierra con una pregunta o con una línea final que deja abierta la pregunta, nunca con una pregunta floja agregada para cumplir.
 9. **Prosa llana:** frases cortas, palabras de todos los días, apta para audio. Español neutro, sin voseo.
 10. **Lo más corto posible.** Nada de monografías.
 
@@ -45,4 +45,4 @@ Ningún texto puede presentar como retrato de Dios algo que Jesús reprendió, d
 
 ## ¿Qué se revisa antes de entregar?
 
-Primera persona y «me parece» en las opiniones. Ningún «quizás», comparación, autobiografía ni repetición. Títulos en forma de pregunta. Hechos verificados y contraevidencia nombrada. Citas exactas. Jesús presente como filtro. Lista completa en `VERIFICACION.md` del repositorio.
+Primera persona y «me parece» en las opiniones. Ningún «quizás», comparación, autobiografía ni repetición. Títulos en forma de pregunta. Hechos verificados y contraevidencia nombrada. Citas exactas. Jesús gobernando la interpretación de cada capítulo, y explícito donde la comparación aporta. Lista completa en `VERIFICACION.md` del repositorio.

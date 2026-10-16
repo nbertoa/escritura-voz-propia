@@ -29,7 +29,7 @@ Una persona curiosa, que no se queda con dudas y que pregunta lo incómodo. Dire
 - **Muchas preguntas** a lo largo del texto, sin encadenar tantas que suene artificial.
 - **Preguntas con dirección** cuando hay convicción: «¿No dijo Jesús que…?», «¿Qué necesitaban esos hombres: que los mataran, o que alguien les mostrara al Dios verdadero?».
 - **Todos los títulos y subtítulos son preguntas.**
-- Cada capítulo cierra con una pregunta que queda en el lector.
+- Cada capítulo cierra con una pregunta que queda en el lector, o con una línea final que deja abierta la pregunta («Ahora prepara otra», «El manto ya cambió de manos»). No se agrega una pregunta floja sólo para cumplir.
 
 ## ¿Qué pasa con lo que incomoda?
 

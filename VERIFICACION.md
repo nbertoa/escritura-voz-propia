@@ -7,7 +7,7 @@
 - [ ] El autor no aparece como ejemplo, contraejemplo ni medida de nada, y no hay autobiografía inventada.
 - [ ] No hay comparaciones con otros («casi nadie», «la mayoría») ni frases desde arriba.
 - [ ] No se caricaturiza ni ridiculiza a nadie.
-- [ ] Todos los títulos y subtítulos son preguntas, y cada capítulo cierra con una.
+- [ ] Todos los títulos y subtítulos son preguntas. Cada capítulo cierra con una pregunta o con una línea final que deja abierta la pregunta («Ahora prepara otra», «El manto ya cambió de manos»). No se agrega una pregunta floja sólo para cumplir.
 
 ## ¿Qué se revisa del estilo?
 
@@ -22,7 +22,7 @@
 - [ ] Las interpretaciones están marcadas como tales («me parece», «creo que»).
 - [ ] Lo que juega en contra está nombrado.
 - [ ] Las citas bíblicas coinciden letra por letra con la traducción elegida para el libro.
-- [ ] Jesús, según los cuatro Evangelios, aparece como filtro en cada capítulo.
+- [ ] Jesús gobierna la interpretación de cada capítulo y aparece explícitamente cuando la comparación aporta algo; un arco de varios capítulos puede reservar la escena de los Evangelios para el lugar donde tiene más fuerza. Jesús no es un catálogo de versículos.
 
 ## ¿Qué búsquedas automáticas ayudan?
 
