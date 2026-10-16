@@ -22,7 +22,7 @@
 - [ ] Las interpretaciones están marcadas como tales («me parece», «creo que»).
 - [ ] Lo que juega en contra está nombrado.
 - [ ] Las citas bíblicas coinciden letra por letra con la traducción elegida para el libro.
-- [ ] Jesús gobierna la interpretación de cada capítulo y aparece explícitamente cuando la comparación aporta algo; un arco de varios capítulos puede reservar la escena de los Evangelios para el lugar donde tiene más fuerza. Jesús no es un catálogo de versículos.
+- [ ] Jesús gobierna la interpretación de cada capítulo y aparece explícitamente cuando la comparación aporta algo; un arco de varios capítulos puede reservar la escena de los Evangelios para el lugar donde tiene más fuerza. Nunca se agrega una escena de Jesús sólo para cumplir una cuota.
 
 ## ¿Qué búsquedas automáticas ayudan?
 

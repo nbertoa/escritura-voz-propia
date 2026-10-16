@@ -31,4 +31,4 @@
 - **Lo que me parece.**
 - **La pregunta final.**
 
-El orden puede variar. Lo que no varía es que haya postura y que jesús gobierna la interpretación de cada capítulo y aparece explícitamente cuando la comparación aporta algo; un arco de varios capítulos puede reservar la escena de los Evangelios para el lugar donde tiene más fuerza. Jesús no es un catálogo de versículos.
+El orden puede variar. Lo que no varía es que haya postura y que jesús gobierna la interpretación de cada capítulo y aparece explícitamente cuando la comparación aporta algo; un arco de varios capítulos puede reservar la escena de los Evangelios para el lugar donde tiene más fuerza. Jesús no es un catálogo de versículos: nunca se agrega una escena de Jesús sólo para cumplir una cuota. Esto no significa que haya capítulos interpretados sin Jesús; significa que no siempre hace falta un episodio evangélico visible.
