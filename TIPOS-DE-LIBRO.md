@@ -34,7 +34,7 @@ Es un texto corto para jesusyyo.com. Sigue la misma voz y la misma estructura, p
 
 ### ¿Dónde se publica?
 
-En la sección **«Preguntas curiosas»** de jesusyyo.com. En la portada se entra con el botón **«¿Alguna vez te preguntaste…?»**, al lado de «Mis libros» y «Biblioteca».
+En la sección **«¿Alguna vez te preguntaste…?»** de jesusyyo.com. Es el mismo nombre para el botón de la portada (al lado de «Mis libros» y «Biblioteca») y para la página de la sección.
 
 ### ¿Cómo es el título?
 
