@@ -50,6 +50,10 @@ Cada post lleva una **imagen destacada** (*featured image*), que es la que se ve
 
 Formato horizontal, de 1200 × 630 px, que es el que usan WhatsApp, Facebook y las demás redes para la vista previa. El título tiene que leerse bien aunque la imagen se vea chica.
 
+### ¿Qué se hace al terminar?
+
+Cuando el post está terminado, el asistente (Claude, ChatGPT u otro) **le recuerda al autor que haga una infografía** sobre el contenido del post, para compartirla en redes.
+
 ## ¿Qué tienen en común?
 
 Jesús es el filtro de todo, según [`nbertoa/jesus-como-filtro`](https://github.com/nbertoa/jesus-como-filtro). Cada tema termina en la misma pregunta: ¿esto se parece al Dios que Jesús mostró?
