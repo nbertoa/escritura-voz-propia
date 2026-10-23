@@ -32,6 +32,24 @@ Es un texto corto para jesusyyo.com. Sigue la misma voz y la misma estructura, p
 - **Cierra con una pregunta que el lector responde por su cuenta.** Sin moraleja, sin «¿qué hacemos nosotros con esto?», sin resumen.
 - Lo más corto posible.
 
+### ¿Dónde se publica?
+
+En la sección **«Preguntas curiosas»** de jesusyyo.com. En la portada se entra con el botón **«¿Alguna vez te preguntaste…?»**, al lado de «Mis libros» y «Biblioteca».
+
+### ¿Cómo es el título?
+
+**Siempre una pregunta.** Directa y corta, como las de un chico: «¿Por qué Jesús no hizo sus milagros en Sodoma?».
+
+### ¿Qué imagen lleva?
+
+Cada post lleva una **imagen destacada** (*featured image*), que es la que se ve cuando se comparte el enlace. Tiene:
+
+- **El título del post**, con la pregunta completa.
+- **El nombre del autor:** Nicolás Bertoa.
+- **Una imagen alusiva** a lo que trata el post.
+
+Formato horizontal, de 1200 × 630 px, que es el que usan WhatsApp, Facebook y las demás redes para la vista previa. El título tiene que leerse bien aunque la imagen se vea chica.
+
 ## ¿Qué tienen en común?
 
 Jesús es el filtro de todo, según [`nbertoa/jesus-como-filtro`](https://github.com/nbertoa/jesus-como-filtro). Cada tema termina en la misma pregunta: ¿esto se parece al Dios que Jesús mostró?
