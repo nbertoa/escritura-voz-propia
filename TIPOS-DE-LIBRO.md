@@ -1,4 +1,4 @@
-# ¿Qué cambia entre un libro narrativo-contemplativo y uno de investigación?
+# ¿Qué cambia entre un libro narrativo-contemplativo, uno de investigación y un post?
 
 La voz es la misma. Cambia qué se pone en el centro.
 
@@ -18,6 +18,19 @@ La voz es la misma. Cambia qué se pone en el centro.
 - Avanza pregunta → respuesta → siguiente pregunta.
 - Cita las fuentes en el texto cuando hace falta, sin convertirse en monografía. Lo técnico va al final, si va.
 - Corto. Al grano.
+
+## ¿Cómo es un post?
+
+Es un texto corto para jesusyyo.com. Sigue la misma voz y la misma estructura, pero no es un libro de investigación: **siembra preguntas**.
+
+- **No busca convencer ni debatir.** Expresa lo que el autor cree y le pasa adentro hasta hoy, según lo que entiende.
+- **Está lleno de preguntas.** Lo que se puede decir como pregunta, se dice como pregunta. La postura del autor va después, en una línea corta: «Creo que sí», «Me parece que no».
+- **Toda opinión va con «creo», «me parece».** Los hechos van como hechos.
+- **Contrasta el tema con el Dios de amor que Jesús mostró.** Ésa es la pregunta de fondo de cada post.
+- **No tiene sección de objeciones ni responde posturas contrarias.** No es un debate. Esto no autoriza a inventar ni torcer hechos: lo que se afirma como dato tiene que ser cierto.
+- **Entra directo al planteo.** Sin introducciones del tipo «hay una frase que me cuesta leer».
+- **Cierra con una pregunta que el lector responde por su cuenta.** Sin moraleja, sin «¿qué hacemos nosotros con esto?», sin resumen.
+- Lo más corto posible.
 
 ## ¿Qué tienen en común?
 

@@ -20,7 +20,8 @@
 
 - [ ] Cada afirmación de hecho está en el texto o en la fuente. Nada se afirmó de más.
 - [ ] Las interpretaciones están marcadas como tales («me parece», «creo que»).
-- [ ] Lo que juega en contra está nombrado.
+- [ ] Lo que juega en contra está nombrado (en un libro; en un post no hay sección de objeciones, ver `TIPOS-DE-LIBRO.md`).
+- [ ] En un post: está lleno de preguntas, entra directo al planteo y cierra con una pregunta para el lector, sin moraleja.
 - [ ] Las citas bíblicas coinciden letra por letra con la traducción elegida para el libro.
 - [ ] Jesús gobierna la interpretación de cada capítulo y aparece explícitamente cuando la comparación aporta algo; un arco de varios capítulos puede reservar la escena de los Evangelios para el lugar donde tiene más fuerza. Nunca se agrega una escena de Jesús sólo para cumplir una cuota.
 

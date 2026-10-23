@@ -11,7 +11,7 @@ No define el formato del libro (maquetación, portada, índice), que vive en otr
 | [`VOZ.md`](VOZ.md) | ¿Cómo suena el autor? |
 | [`ESTILO.md`](ESTILO.md) | ¿Cómo se escribe cada frase, párrafo y capítulo? |
 | [`HECHOS-E-INTERPRETACION.md`](HECHOS-E-INTERPRETACION.md) | ¿Cómo se separa lo que dice el texto de lo que me parece? |
-| [`TIPOS-DE-LIBRO.md`](TIPOS-DE-LIBRO.md) | ¿Qué cambia entre un libro narrativo-contemplativo y uno de investigación? |
+| [`TIPOS-DE-LIBRO.md`](TIPOS-DE-LIBRO.md) | ¿Qué cambia entre un libro narrativo-contemplativo, uno de investigación y un post? |
 | [`FUENTES.md`](FUENTES.md) | ¿Qué Biblia se cita y qué fuentes no se usan? |
 | [`EJEMPLOS.md`](EJEMPLOS.md) | ¿Cómo se ve la voz en pares «así no / así sí»? |
 | [`VERIFICACION.md`](VERIFICACION.md) | ¿Qué se revisa antes de entregar un texto? |
@@ -29,5 +29,5 @@ Los libros anteriores no tienen esta voz y no se usan como modelo.
 1. **Jesús es el filtro de todo**: su vida en los cuatro Evangelios.
 2. **Digo lo que me parece**, en primera persona, con convicción y con humildad.
 3. **Voy al grano**: corto, llano, sin adornos ni vueltas.
-4. **Separo los hechos de mi interpretación** y no escondo lo que juega en contra.
+4. **Separo los hechos de mi interpretación** y no escondo lo que juega en contra (en un post no se debate: ver `TIPOS-DE-LIBRO.md`).
 5. **Pregunto lo incómodo**, como un chico curioso.
