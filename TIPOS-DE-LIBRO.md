@@ -23,18 +23,18 @@ La voz es la misma. Cambia qué se pone en el centro.
 
 Es un texto corto para jesusyyo.com. Sigue la misma voz y la misma estructura, pero no es un libro de investigación: **siembra preguntas**.
 
-- **No busca convencer ni debatir.** Expresa lo que el autor cree y le pasa adentro hasta hoy, según lo que entiende.
+- **No busca ganar una discusión ni convencer a un adversario.** Expresa lo que el autor cree y le pasa adentro hasta hoy, según lo que entiende. **Esto no significa escribir algo tibio o superficial:** el post puede tener análisis, argumentos, respuestas tentativas y convicciones fuertes.
 - **Está lleno de preguntas.** Lo que se puede decir como pregunta, se dice como pregunta. La postura del autor va después, en una línea corta: «Creo que sí», «Me parece que no».
 - **Toda opinión va con «creo», «me parece».** Los hechos van como hechos.
 - **Contrasta el tema con el Dios de amor que Jesús mostró.** Ésa es la pregunta de fondo de cada post.
-- **No tiene sección de objeciones ni responde posturas contrarias.** No es un debate. Esto no autoriza a inventar ni torcer hechos: lo que se afirma como dato tiene que ser cierto.
+- **No se organiza como una disputa teológica contra otras personas o posturas.** Sí puede examinar explicaciones habituales, pensar sus implicaciones y hacer preguntas difíciles. El eje es lo que Nicolás quiere compartir, con orden, respeto y honestidad, no demostrar que otros están equivocados. Esto no autoriza a inventar ni torcer hechos: lo que se afirma como dato tiene que ser cierto.
 - **Entra directo al planteo.** Sin introducciones del tipo «hay una frase que me cuesta leer».
 - **Cierra con una pregunta que el lector responde por su cuenta.** Sin moraleja, sin «¿qué hacemos nosotros con esto?», sin resumen.
 - Lo más corto posible.
 
 ### ¿Dónde se publica?
 
-En la sección **«¿Alguna vez te preguntaste…?»** de jesusyyo.com. Es el mismo nombre para el botón de la portada (al lado de «Mis libros» y «Biblioteca») y para la página de la sección.
+En la sección **«¿Alguna vez te preguntaste…?»** de jesusyyo.com. Es el mismo nombre para el botón de la portada (al lado de «Mis libros» y «Biblioteca») y para la página de la sección. **Cada artículo se publica como entrada individual; la sección es un índice de preguntas con enlaces a esos artículos**, no un lugar donde volcar sus textos completos. El encabezado no debe mostrar «Category:».
 
 ### ¿Cómo es el título?
 
@@ -48,11 +48,13 @@ Cada post lleva una **imagen destacada** (*featured image*), que es la que se ve
 - **El nombre del autor:** Nicolás Bertoa.
 - **Una imagen alusiva** a lo que trata el post.
 
-Formato horizontal, de 1200 × 630 px, que es el que usan WhatsApp, Facebook y las demás redes para la vista previa. El título tiene que leerse bien aunque la imagen se vea chica.
+Formato horizontal, de 1200 × 630 px, que es el que usan WhatsApp, Facebook y las demás redes para la vista previa. El título tiene que leerse bien aunque la imagen se vea chica. **Dejar suficiente margen interior para que ni el título ni el autor se corten cuando el sitio la muestra en otra proporción** (por ejemplo, 3:2).
 
 ### ¿Qué se hace al terminar?
 
-Cuando el post está terminado, el asistente (Claude, ChatGPT u otro) **le recuerda al autor que haga una infografía** sobre el contenido del post, para compartirla en redes.
+Cuando el post está terminado, el asistente (Claude, ChatGPT u otro) **le recuerda al autor que haga una infografía** sobre el contenido del post, para compartirla en redes. **La infografía debe mantener la identidad visual de la imagen destacada**. Si se pide material para YouTube, su descripción incluye el **enlace directo al post**.
+
+El procedimiento detallado (texto cerrado por Nicolás, publicación individual, imagen, YouTube, infografía y verificaciones) está en **[FLUJO-DE-PUBLICACION-POST.md](FLUJO-DE-PUBLICACION-POST.md)**.
 
 ## ¿Qué tienen en común?
 
