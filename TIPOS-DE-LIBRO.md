@@ -48,13 +48,13 @@ Cada post lleva una **imagen destacada** (*featured image*), que es la que se ve
 - **El nombre del autor:** Nicolás Bertoa.
 - **Una imagen alusiva** a lo que trata el post.
 
-Formato horizontal, de 1200 × 630 px, que es el que usan WhatsApp, Facebook y las demás redes para la vista previa. El título tiene que leerse bien aunque la imagen se vea chica. **Dejar suficiente margen interior para que ni el título ni el autor se corten cuando el sitio la muestra en otra proporción** (por ejemplo, 3:2).
+Formato horizontal, de 1200 × 630 px, para usar **la misma imagen tanto como featured image del artículo de WordPress como thumbnail del video de YouTube**. También puede acompañar las publicaciones en X y WhatsApp. El título tiene que leerse bien aunque la imagen se vea chica. **Dejar suficiente margen interior para que ni el título ni el autor se corten si se muestra en otra proporción**, incluso 16:9 en YouTube. No generar una infografía separada.
 
 ### ¿Qué se hace al terminar?
 
-Cuando el post está terminado, el asistente (Claude, ChatGPT u otro) **le recuerda al autor que haga una infografía** sobre el contenido del post, para compartirla en redes. **La infografía debe mantener la identidad visual de la imagen destacada**. Si se pide material para YouTube, su descripción incluye el **enlace directo al post**.
+El asistente publica el post íntegro y genera **una única imagen** para WordPress y YouTube, junto al título y la descripción del video; la descripción incluye el **enlace directo al artículo**. Una vez que Nicolás publica el video y envía su enlace, el asistente **agrega al final del post de WordPress un enlace para escucharlo y prepara un posteo para X con los enlaces directos al video y al artículo**. Nicolás copia y publica en X. Para estados y canal de WhatsApp se reutiliza la misma imagen; **no se hacen infografías**.
 
-El procedimiento detallado (texto cerrado por Nicolás, publicación individual, imagen, YouTube, infografía y verificaciones) está en **[FLUJO-DE-PUBLICACION-POST.md](FLUJO-DE-PUBLICACION-POST.md)**.
+El procedimiento detallado (texto cerrado por Nicolás, publicación individual, imagen única, YouTube, actualización del artículo, posteo para X y verificaciones) está en **[FLUJO-DE-PUBLICACION-POST.md](FLUJO-DE-PUBLICACION-POST.md)**.
 
 ## ¿Qué tienen en común?
 
