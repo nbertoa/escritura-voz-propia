@@ -21,8 +21,8 @@ Este flujo quedó definido a partir del primer post publicado el **23 de octubre
 
 ## ¿Cómo se hace la imagen única para WordPress y YouTube?
 
-- Crear **una sola imagen**, alusiva al contenido, para usar **a la vez como imagen destacada de WordPress y como miniatura (thumbnail) del video de YouTube**. No generar una segunda imagen ni una infografía.
-- Formato horizontal **1200 × 630 píxeles**. Preparar la composición para que también se vea bien cuando YouTube la encuadre en **16:9** y cuando WordPress u otras redes la recorten.
+- Crear **una sola imagen**, alusiva al contenido, **diseñada primero como imagen destacada de WordPress** y reutilizada sin modificaciones como miniatura (thumbnail) del video de YouTube. No generar una segunda imagen ni una infografía.
+- **El formato de referencia y la prioridad son los de la imagen destacada de WordPress: exactamente 1200 × 630 píxeles (proporción 40:21).** Diseñar y exportar para WordPress, sin cambiar la proporción a 16:9 ni recortar el lienzo para YouTube. Esa misma imagen, en el mismo archivo y con las mismas dimensiones, se reutiliza como miniatura de YouTube. Si YouTube muestra otro encuadre, se acepta esa adaptación de visualización: no se sacrifica ni recorta la imagen destacada de WordPress para optimizar YouTube.
 - Incluir **el título completo de la pregunta** y **«Nicolás Bertoa»** con tipografía claramente legible.
 - Mantener título y autor dentro de un área central segura, con márgenes generosos y contraste suficiente, incluso en la miniatura pequeña de un celular. Ninguna palabra debe quedar cortada.
 - Verificar la imagen completa y la vista pública de WordPress cuando sea posible; subirla a la biblioteca de medios y **asignarla como imagen destacada de la entrada**, no solamente adjuntarla al chat.
@@ -55,7 +55,7 @@ Este paso se ejecuta **cuando Nicolás entrega el enlace de YouTube**. Si aún n
 - [ ] El texto del post coincide con la **versión final entregada por Nicolás**.
 - [ ] La entrada individual tiene pregunta, categoría y URL directas correctas.
 - [ ] En «¿Alguna vez te preguntaste…?» se ve **un enlace al artículo**, no su texto completo, y el título no lleva «Category:».
-- [ ] La única imagen está asignada como destacada, tiene título y autor **sin recortes** y se puede reutilizar como miniatura de YouTube.
+- [ ] La única imagen mide **exactamente 1200 × 630 píxeles**, está asignada como destacada en WordPress, tiene título y autor **sin recortes en WordPress** y se reutiliza tal cual como miniatura de YouTube.
 - [ ] La descripción de YouTube contiene **el enlace directo al post**.
 - [ ] Cuando Nicolás entrega el enlace del video, se agrega al final del artículo de WordPress y **se prepara el posteo para X con ambos enlaces**.
 - [ ] No se creó una infografía de WhatsApp ni otra imagen adicional.
