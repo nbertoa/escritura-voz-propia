@@ -48,7 +48,7 @@ Cada post lleva una **imagen destacada** (*featured image*), que es la que se ve
 - **El nombre del autor:** Nicolás Bertoa.
 - **Una imagen alusiva** a lo que trata el post.
 
-Formato horizontal, de 1200 × 630 px, para usar **la misma imagen tanto como featured image del artículo de WordPress como thumbnail del video de YouTube**. También puede acompañar las publicaciones en X y WhatsApp. El título tiene que leerse bien aunque la imagen se vea chica. **Dejar suficiente margen interior para que ni el título ni el autor se corten si se muestra en otra proporción**, incluso 16:9 en YouTube. No generar una infografía separada.
+**Diseñar y exportar prioritariamente para la imagen destacada de WordPress, en formato horizontal exacto de 1200 × 630 píxeles (40:21).** Ésta es la medida de referencia, no la miniatura 16:9 de YouTube. **Reutilizar el mismo archivo, sin recortar ni modificar, como thumbnail del video de YouTube**; WordPress tiene prioridad cuando los encuadres difieren. También puede acompañar publicaciones en X y WhatsApp. El título tiene que leerse bien aunque la imagen se vea chica. **Dejar márgenes interiores seguros para que el título y el autor se vean completos en WordPress.** No generar una infografía separada.
 
 ### ¿Qué se hace al terminar?
 
