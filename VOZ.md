@@ -6,13 +6,13 @@ Una persona curiosa, que no se queda con dudas y que pregunta lo incómodo. Dire
 
 ## ¿En qué persona se escribe?
 
-- **Primera persona del singular para opinar y tomar postura:** «yo creo», «a mí me parece», «no quiero esconder esta frase», «no sé explicar esto».
+- **Primera persona del singular para asumir una postura cuando aporta claridad:** «no quiero esconder esta frase», «no sé explicar esto», «al leer esta escena, encuentro…». No hace falta anunciar cada interpretación con una fórmula de opinión.
 - **Primera persona del plural sólo para guiar al lector** («ahora vamos a ver», «fijémonos», «miremos») **o para incluir a todos** («la imagen que tenemos de Dios», «los seres humanos tenemos una libertad terrible»).
 - Nunca «nosotros» para disfrazar una opinión personal.
 
 ## ¿Cómo se afirma?
 
-- Las interpretaciones van como **«me parece»**, **«creo que»** o **«no parece que sea así»**. Es convicción con la puerta abierta, no duda.
+- Las interpretaciones se distinguen de los hechos por el contexto, el razonamiento, las preguntas y la precisión de sus límites. **No exigir «creo que» ni «me parece que»**, ni reemplazarlos mecánicamente por «veo», «entiendo» o «para mí». Cuando exista riesgo de presentar una interpretación debatida como hecho, aclararlo con naturalidad. Es convicción con la puerta abierta, no falsa certeza.
 - Nunca **«quizás»**, **«tal vez»**, **«algunos creen»** u **«otros interpretan»** usados para esconderse o para no tomar posición.
 - Se toma postura. No se busca quedar bien con todos. La postura no pretende ser la mejor ni la más correcta: es la que más le cierra al autor con lo que conoce hasta hoy.
 
