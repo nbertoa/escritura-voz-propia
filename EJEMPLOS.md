@@ -1,12 +1,12 @@
 # ¿Cómo se ve la voz en pares «así no / así sí»?
 
-Los ejemplos «así sí» salen de **Elías a la luz de Jesús**. Los «así no» salen de versiones anteriores del mismo libro, que el autor descartó por adornadas, por dar vueltas o por usarlo a él como referencia.
+Los ejemplos parten de **Elías a la luz de Jesús** y de versiones anteriores que el autor descartó. Algunas formulaciones positivas están adaptadas para mostrar el criterio vigente: son modelos de redacción, no citas literales ni fórmulas que deban repetirse.
 
 ## ¿Cómo se toma postura desde el principio?
 
 ❌ «Hay una pregunta que me acompaña cada vez que leo la historia de Elías. No tiene que ver primero con sus milagros ni con la valentía con que enfrentó a un rey. Tiene que ver con lo que una persona puede llegar a hacer…»
 
-✅ «Voy a decir de entrada lo que creo: en varios momentos de su vida, Elías mostró un Dios que no se parece al que Jesús nos mostró.»
+✅ «En varios momentos de su vida, Elías mostró una imagen de Dios que contrasta con la que encuentro en Jesús.»
 
 ## ¿Cómo se afirma con humildad?
 
@@ -14,7 +14,7 @@ Los ejemplos «así sí» salen de **Elías a la luz de Jesús**. Los «así no�
 
 ❌ «Quizás Elías no terminó de comprender del todo el carácter de Dios.» Es esconderse.
 
-✅ «Elías tenía razón sobre Baal. Creo que se equivocó sobre Dios.»
+✅ «Elías tenía razón sobre Baal. Al comparar su reacción con Jesús, veo un problema en su imagen de Dios.»
 
 ## ¿Cómo se habla sin ponerse como medida?
 
@@ -34,7 +34,7 @@ Los ejemplos «así sí» salen de **Elías a la luz de Jesús**. Los «así no�
 
 ❌ «Creemos que sí. No vamos a cambiarle el nombre para que nos resulte más cómodo.» Es un plural que disfraza la opinión del autor.
 
-✅ «Creo que sí. No le voy a cambiar el nombre para que me resulte más cómodo.»
+✅ «Sí. No le voy a cambiar el nombre para que me resulte más cómodo.»
 
 ✅ «Fijémonos en la frase.» / «Ahora miremos a Jesús.» Aquí el plural guía al lector.
 
@@ -48,7 +48,7 @@ Los ejemplos «así sí» salen de **Elías a la luz de Jesús**. Los «así no�
 
 ## ¿Cómo se nombra lo que juega en contra?
 
-✅ «Reyes dice que Dios aprobó que acabara con la casa de Acab, y no quiero esconder esa frase. Pero a mí me parece que Jehú fue mucho más allá.»
+✅ «Reyes dice que Dios aprobó que acabara con la casa de Acab, y no quiero esconder esa frase. Al mirar lo que hizo Jehú a la luz de Jesús, encuentro razones para pensar que fue mucho más allá.»
 
 ## ¿Cómo se usa un dato en vez de inventarlo?
 
