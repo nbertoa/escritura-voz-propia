@@ -29,7 +29,7 @@ Si el repositorio y esta skill difieren, gana el repositorio. Esta skill no se a
 Avisarle a Nicolás que no se pudo leer la guía, y mientras tanto respetar lo esencial:
 
 1. **Jesús, según los cuatro Evangelios, es el filtro de todo.**
-2. **Primera persona del singular para opinar** («yo creo», «a mí me parece»), con humildad y sin «quizás».
+2. **Primera persona del singular cuando aporta para asumir una postura**, con humildad y sin muletillas obligatorias como «creo» o «me parece». Distinguir los datos de las interpretaciones sin convertir una inferencia en hecho.
 3. **Los hechos son una cosa y la interpretación es otra.** Nunca se inventan hechos ni pensamientos de los personajes, y lo que juega en contra se nombra.
 4. **Directo, corto y llano**, sin adornos ni repeticiones.
 5. **Títulos en forma de pregunta**, y preguntas incómodas a lo largo del texto.
