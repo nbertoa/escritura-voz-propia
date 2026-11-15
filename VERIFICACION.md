@@ -2,7 +2,7 @@
 
 ## ¿Qué se revisa de la voz?
 
-- [ ] Las opiniones van en primera persona del singular. El plural sólo guía al lector o incluye a todos.
+- [ ] La postura personal se expresa en primera persona del singular cuando corresponde. El plural sólo guía al lector o incluye a todos. No hace falta una marca de opinión en cada párrafo.
 - [ ] No aparecen «quizás», «tal vez», «algunos creen» ni «otros interpretan» usados para esconderse.
 - [ ] El autor no aparece como ejemplo, contraejemplo ni medida de nada, y no hay autobiografía inventada.
 - [ ] No hay comparaciones con otros («casi nadie», «la mayoría») ni frases desde arriba.
@@ -14,12 +14,13 @@
 - [ ] Ningún párrafo repite el anterior con otras palabras.
 - [ ] No quedan adornos, imágenes decorativas ni fórmulas de relleno.
 - [ ] Las frases son cortas y suenan bien en voz alta.
+- [ ] Se evitaron muletillas repetidas («creo», «me parece», «entiendo», «veo», «para mí») sin sustituir unas por otras mecánicamente.
 - [ ] El texto es lo más corto posible.
 
 ## ¿Qué se revisa de la honestidad?
 
 - [ ] Cada afirmación de hecho está en el texto o en la fuente. Nada se afirmó de más.
-- [ ] Las interpretaciones están marcadas como tales («me parece», «creo que»).
+- [ ] Las interpretaciones se distinguen de los hechos por el contexto, el razonamiento y los límites explícitos cuando son necesarios. No se exigieron «creo» ni «me parece», ni se convirtió una inferencia en dato al quitarlos.
 - [ ] Lo que juega en contra está nombrado (en un libro; en un post no hay sección de objeciones, ver `TIPOS-DE-LIBRO.md`).
 - [ ] En un post: está lleno de preguntas, entra directo al planteo y cierra con una pregunta para el lector, sin moraleja. **No se debilitó su análisis ni se quitaron argumentos para hacerlo más «liviano».**
 - [ ] Si el autor entregó un post terminado para publicar, **se preservó el texto íntegro**; se siguió el proceso de [`FLUJO-DE-PUBLICACION-POST.md`](FLUJO-DE-PUBLICACION-POST.md).
