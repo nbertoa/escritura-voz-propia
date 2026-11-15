@@ -10,7 +10,7 @@ No define el formato del libro (maquetación, portada, índice), que vive en otr
 |---|---|
 | [`VOZ.md`](VOZ.md) | ¿Cómo suena el autor? |
 | [`ESTILO.md`](ESTILO.md) | ¿Cómo se escribe cada frase, párrafo y capítulo? |
-| [`HECHOS-E-INTERPRETACION.md`](HECHOS-E-INTERPRETACION.md) | ¿Cómo se separa lo que dice el texto de lo que me parece? |
+| [`HECHOS-E-INTERPRETACION.md`](HECHOS-E-INTERPRETACION.md) | ¿Cómo se distinguen los hechos de las interpretaciones? |
 | [`TIPOS-DE-LIBRO.md`](TIPOS-DE-LIBRO.md) | ¿Qué cambia entre un libro narrativo-contemplativo, uno de investigación y un post? |
 | [`FLUJO-DE-PUBLICACION-POST.md`](FLUJO-DE-PUBLICACION-POST.md) | ¿Cómo se publica un post en el sitio y se preparan su imagen, YouTube e infografía para WhatsApp? |
 | [`FUENTES.md`](FUENTES.md) | ¿Qué Biblia se cita y qué fuentes no se usan? |
@@ -28,7 +28,7 @@ Los libros anteriores no tienen esta voz y no se usan como modelo.
 ## ¿Qué es lo esencial?
 
 1. **Jesús es el filtro de todo**: su vida en los cuatro Evangelios.
-2. **Digo lo que me parece**, en primera persona, con convicción y con humildad.
+2. **Expreso mis convicciones con naturalidad**, en primera persona cuando aporta, sin repetir muletillas ni presentar interpretaciones como hechos.
 3. **Voy al grano**: corto, llano, sin adornos ni vueltas.
 4. **Separo los hechos de mi interpretación** y no escondo lo que juega en contra (el post puede desarrollar argumentos sin convertirse en un debate contra otros: ver `TIPOS-DE-LIBRO.md`).
 5. **Pregunto lo incómodo**, como un chico curioso.
