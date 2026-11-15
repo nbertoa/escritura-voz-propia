@@ -13,7 +13,7 @@ La voz es la misma. Cambia qué se pone en el centro.
 ## ¿Cómo es un libro de investigación?
 
 - Examina un tema, una doctrina o una pregunta, y **toma postura**: la del autor, analizada.
-- No busca quedar bien con todos. La postura no se presenta como la mejor ni como la más correcta, sino como la que más le cierra al autor con lo que sabe hoy. Siempre en términos de «me parece», no de «es así».
+- No busca quedar bien con todos. La postura no se presenta como la mejor ni como la más correcta, sino como la que más le cierra al autor con lo que sabe hoy. Se expone como una conclusión razonada, sin repetir «creo» o «me parece» ni convertir lo discutible en una certeza.
 - **Las posturas contrarias se presentan en su mejor versión y después se responden.** No se caricaturizan, no se ridiculizan y nunca se vuelve algo personal.
 - Avanza pregunta → respuesta → siguiente pregunta.
 - Cita las fuentes en el texto cuando hace falta, sin convertirse en monografía. Lo técnico va al final, si va.
@@ -24,8 +24,8 @@ La voz es la misma. Cambia qué se pone en el centro.
 Es un texto corto para jesusyyo.com. Sigue la misma voz y la misma estructura, pero no es un libro de investigación: **siembra preguntas**.
 
 - **No busca ganar una discusión ni convencer a un adversario.** Expresa lo que el autor cree y le pasa adentro hasta hoy, según lo que entiende. **Esto no significa escribir algo tibio o superficial:** el post puede tener análisis, argumentos, respuestas tentativas y convicciones fuertes.
-- **Está lleno de preguntas.** Lo que se puede decir como pregunta, se dice como pregunta. La postura del autor va después, en una línea corta: «Creo que sí», «Me parece que no».
-- **Toda opinión va con «creo», «me parece».** Los hechos van como hechos.
+- **Está lleno de preguntas.** Lo que se puede decir como pregunta, se dice como pregunta. La postura del autor va después, en una línea corta y natural, sin fórmulas de opinión obligatorias.
+- **Los hechos van como hechos y las opiniones como lecturas personales sustentadas.** Esa distinción se reconoce por el razonamiento, el contexto y los límites; no requiere insertar una muletilla en cada frase.
 - **Contrasta el tema con el Dios de amor que Jesús mostró.** Ésa es la pregunta de fondo de cada post.
 - **No se organiza como una disputa teológica contra otras personas o posturas.** Sí puede examinar explicaciones habituales, pensar sus implicaciones y hacer preguntas difíciles. El eje es lo que Nicolás quiere compartir, con orden, respeto y honestidad, no demostrar que otros están equivocados. Esto no autoriza a inventar ni torcer hechos: lo que se afirma como dato tiene que ser cierto.
 - **Entra directo al planteo.** Sin introducciones del tipo «hay una frase que me cuesta leer».
