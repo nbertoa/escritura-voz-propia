@@ -13,6 +13,7 @@
 - Un párrafo que repite el anterior con otras palabras.
 - Párrafos que observan la escena desde afuera sin decir nada nuevo.
 - Fórmulas de relleno: «no vuelve pequeño», «no se trata solamente de», «queda dentro de», «la pregunta no termina aquí».
+- Muletillas de postura repetidas: «creo», «me parece», «entiendo», «veo», «para mí». No están prohibidas cuando aportan, pero no deben abrir párrafo tras párrafo ni sustituirse unas por otras de forma automática.
 - Etiquetas académicas en el texto: «hipótesis», «evidencia», «interpretación», «texto».
 
 ## ¿Qué largo tiene un libro?
@@ -28,7 +29,7 @@
 - **El dato:** qué dice el texto.
 - **La imagen de Dios** que hay detrás.
 - **Jesús en una situación comparable** de los Evangelios.
-- **Lo que me parece.**
+- **Mi lectura y su alcance:** la conclusión que sostengo, sin atribuirle al texto más de lo que dice.
 - **La pregunta final.**
 
 El orden puede variar. Lo que no varía es que haya postura y que Jesús gobierne la interpretación de cada capítulo. Jesús aparece explícitamente cuando la comparación aporta algo; un arco de varios capítulos puede reservar la escena de los Evangelios para el lugar donde tiene más fuerza. Jesús no es un catálogo de versículos: nunca se agrega una escena de Jesús sólo para cumplir una cuota. Esto no significa que haya capítulos interpretados sin Jesús; significa que no siempre hace falta un episodio evangélico visible.
