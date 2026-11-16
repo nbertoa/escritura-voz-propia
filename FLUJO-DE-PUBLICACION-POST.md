@@ -1,71 +1,50 @@
-# ¿Cómo se publica y comparte un post?
+# ¿Cómo se publica un post?
 
 Flujo de trabajo para los posts de **«¿Alguna vez te preguntaste…?»** en [jesusyyo.com](https://jesusyyo.com). Complementa [TIPOS-DE-LIBRO.md](TIPOS-DE-LIBRO.md). La voz sigue gobernada por `VOZ.md`, `ESTILO.md`, `HECHOS-E-INTERPRETACION.md` y el filtro de Jesús.
 
-Este flujo quedó definido a partir del primer post publicado el **23 de octubre de 2026**. Su objetivo es poder repetir el proceso con Claude, ChatGPT u otro asistente sin perder el texto del autor ni la continuidad visual.
+Flujo vigente desde el **16 de noviembre de 2026**. Reemplaza al anterior, en el que ChatGPT publicaba y se preparaban materiales para YouTube y X.
 
 ## ¿Quién hace qué?
 
-- **Nicolás escribe, revisa y cierra el texto.** En el primer caso lo trabajó con **Claude**. Ésa es la distribución de tareas que funcionó, no la obligación de usar siempre una herramienta determinada.
-- **ChatGPT recibe el texto final y se ocupa de publicarlo y preparar los materiales de difusión** cuando Nicolás lo solicita: entrada en WordPress, una única imagen compartida con YouTube, y propuesta de título y descripción para YouTube. Después de que Nicolás publica el video y comparte su enlace, se agrega ese enlace al artículo y se prepara un posteo para X con los enlaces al video y al blog. **No generar infografías para WhatsApp.**
-- **No hay una nueva revisión literaria por defecto.** Si Nicolás entrega el texto como definitivo, se publica **íntegro**. No se recorta, resume, «purifica», suaviza ni reemplaza por otra versión. Si hay un problema factual importante, se señala aparte; no se cambia silenciosamente el original.
-- Publicar o modificar contenido visible requiere que Nicolás lo haya pedido expresamente. La petición de publicar directamente autoriza hacerlo sin volver a pedirle que apruebe el texto recibido.
+- **Nicolás y Claude trabajan el texto juntos.** El post parte de una pregunta de Nicolás. Claude analiza, propone ángulos y redacta; Nicolás corrige y cierra el texto.
+- **Claude publica el post** en jesusyyo.com con el conector de WordPress.com: crea la entrada, sube la imagen y la publica cuando Nicolás lo confirma.
+- **ChatGPT sólo genera la imagen destacada**, a partir de un prompt que prepara Claude. Nicolás le pasa la imagen a Claude.
+- **Los posts no se pasan a YouTube.** No se preparan título ni descripción de video, ni enlaces para escuchar, ni posteos para X con el video. **No se hacen infografías.**
+- Si Nicolás entrega el texto como definitivo, se publica **íntegro**. No se recorta, resume, suaviza ni reemplaza. Si hay un problema factual importante, se señala aparte; no se cambia en silencio.
+- Publicar contenido visible requiere que Nicolás lo pida expresamente.
+
+## ¿Cómo se hace la imagen destacada?
+
+1. Mirar las imágenes destacadas de los últimos posts de la categoría para mantener el estilo.
+2. Preparar para ChatGPT un prompt que diga explícitamente que es la **imagen destacada (featured image) de WordPress** del post.
+3. El estilo vigente:
+   - Horizontal, **exactamente 1200 × 630 píxeles (40:21)**, con márgenes interiores seguros.
+   - En una mitad, una escena bíblica fotorrealista y cinematográfica, con luz cálida de atardecer, de la escena de Jesús central del post.
+   - En la otra mitad, fondo oscurecido con degradé a verde azulado profundo. El título completo en blanco, sans serif en negrita, alineado a la izquierda. Debajo, una línea corta dorada y **«Nicolás Bertoa»** en crema, más chico.
+4. El título tiene que estar escrito exactamente igual que en el post. Ninguna palabra debe quedar cortada, incluso en la miniatura de un celular.
+5. Una sola imagen, sin infografía.
 
 ## ¿Cómo se publica en el sitio?
 
-1. Crear **una entrada individual nueva** en WordPress con **la pregunta como título**, exactamente como la entregó Nicolás. El texto completo va **dentro de esa entrada**, con sus párrafos y subtítulos originales.
-2. Asignar la entrada a la categoría **«¿Alguna vez te preguntaste…?»**, cuyo slug es `alguna-vez-te-preguntaste`.
-3. La **página de la categoría es un índice**, no el artículo: muestra las preguntas como títulos enlazados, con sus imágenes si corresponde, para abrir cada post individual. **No reproducir allí los artículos completos**, ni insertar manualmente una publicación fija cada vez que se agrega una entrada: el listado debe actualizarse con las entradas de la categoría.
-4. El encabezado visible de la sección debe ser **«¿Alguna vez te preguntaste…?»**, sin el prefijo automático **«Category:»**. El acceso desde la portada mantiene ese mismo nombre y enlaza a la sección.
-5. Verificar que la entrada haya quedado publicada, categorizada, con la imagen asignada y con una URL pública correcta. Entregar el **enlace directo al artículo** y, si aporta, el enlace a la sección.
-
-## ¿Cómo se hace la imagen única para WordPress y YouTube?
-
-- Crear **una sola imagen**, alusiva al contenido, **diseñada primero como imagen destacada de WordPress** y reutilizada sin modificaciones como miniatura (thumbnail) del video de YouTube. No generar una segunda imagen ni una infografía.
-- **El formato de referencia y la prioridad son los de la imagen destacada de WordPress: exactamente 1200 × 630 píxeles (proporción 40:21).** Diseñar y exportar para WordPress, sin cambiar la proporción a 16:9 ni recortar el lienzo para YouTube. Esa misma imagen, en el mismo archivo y con las mismas dimensiones, se reutiliza como miniatura de YouTube. Si YouTube muestra otro encuadre, se acepta esa adaptación de visualización: no se sacrifica ni recorta la imagen destacada de WordPress para optimizar YouTube.
-- Incluir **el título completo de la pregunta** y **«Nicolás Bertoa»** con tipografía claramente legible.
-- Mantener título y autor dentro de un área central segura, con márgenes generosos y contraste suficiente, incluso en la miniatura pequeña de un celular. Ninguna palabra debe quedar cortada.
-- Verificar la imagen completa y la vista pública de WordPress cuando sea posible; subirla a la biblioteca de medios y **asignarla como imagen destacada de la entrada**, no solamente adjuntarla al chat.
-- Entregar también el archivo para que Nicolás use **esa misma imagen** como miniatura en YouTube y, si quiere, para estados y canal de WhatsApp.
-
-## ¿Cómo se prepara YouTube?
-
-Al publicar el artículo, entregar dos piezas fáciles de copiar:
-
-- **Título:** la pregunta del post; se puede añadir «| Nicolás Bertoa».
-- **Descripción:** una presentación breve y fiel de la inquietud y sus preguntas centrales, en el mismo tono del autor, seguida del **enlace completo y directo al post**, no sólo el dominio o la categoría.
-- **Miniatura:** reutilizar **la misma imagen destacada del artículo**, sin crear otra.
-
-No se da por hecho que el asistente subió el video a YouTube: preparar título y descripción es distinto de publicarlo.
-
-## ¿Qué se hace cuando Nicolás comparte el enlace del video publicado?
-
-Este es un **segundo momento del flujo**. Nicolás crea y publica el video en su canal de YouTube y **después le pasa a ChatGPT el enlace directo del video**, sin tener que repetir el título ni el enlace del artículo que ya se publicó.
-
-1. Identificar el artículo correspondiente y recuperar su **enlace directo** en jesusyyo.com.
-2. Agregar al **final de la entrada de WordPress**, por fuera del texto original, un enlace visible como **«Escuchá esta reflexión en YouTube»** que lleve al video específico. No reescribir el post, no modificar su pregunta final, no insertar el enlace en mitad del texto ni duplicar un enlace ya existente.
-3. **Preparar un posteo para X (antes Twitter)** que Nicolás pueda copiar y publicar personalmente, con una pregunta o idea potente pero fiel al post, el **enlace directo al artículo** y el **enlace directo al video de YouTube**. Mantenerlo breve y dentro del límite de caracteres de una publicación estándar, contando ambos enlaces. No añadir sensacionalismo ni atribuir certezas que el autor presenta como preguntas o interpretaciones.
-4. Proponer reutilizar la **misma imagen de WordPress/YouTube** como acompañamiento del posteo en X, estados o canal de WhatsApp, si corresponde. **No crear infografías ni otras imágenes adicionales.**
-5. Comprobar el enlace guardado en WordPress antes de afirmar que la actualización está hecha. **No afirmar haber publicado en X**: ChatGPT entrega el texto y Nicolás lo publica.
-
-Este paso se ejecuta **cuando Nicolás entrega el enlace de YouTube**. Si aún no lo compartió, sólo se prepara el material inicial y se le recuerda que puede enviar el enlace cuando esté publicado.
+1. Crear **una entrada individual nueva** con **la pregunta como título**, exactamente como la cerró Nicolás. Los subtítulos van como bloques de encabezado h2 y los párrafos como bloques de párrafo.
+2. Asignarla a la categoría **«¿Alguna vez te preguntaste…?»** (slug `alguna-vez-te-preguntaste`).
+3. Dejarla como **borrador** hasta que Nicolás confirme.
+4. Ajustar la imagen de ChatGPT a 1200 × 630, subirla a la biblioteca de medios con un texto alternativo que describa la escena y **asignarla como imagen destacada** de la entrada.
+5. Publicar cuando Nicolás lo confirme.
+6. La **página de la categoría es un índice**: muestra las preguntas como títulos enlazados a cada post. No se reproducen ahí los artículos completos. El encabezado de la sección es **«¿Alguna vez te preguntaste…?»**, sin el prefijo «Category:».
 
 ## ¿Qué hay que confirmar antes de decir «listo»?
 
-- [ ] El texto del post coincide con la **versión final entregada por Nicolás**.
-- [ ] La entrada individual tiene pregunta, categoría y URL directas correctas.
-- [ ] En «¿Alguna vez te preguntaste…?» se ve **un enlace al artículo**, no su texto completo, y el título no lleva «Category:».
-- [ ] La única imagen mide **exactamente 1200 × 630 píxeles**, está asignada como destacada en WordPress, tiene título y autor **sin recortes en WordPress** y se reutiliza tal cual como miniatura de YouTube.
-- [ ] La descripción de YouTube contiene **el enlace directo al post**.
-- [ ] Cuando Nicolás entrega el enlace del video, se agrega al final del artículo de WordPress y **se prepara el posteo para X con ambos enlaces**.
-- [ ] No se creó una infografía de WhatsApp ni otra imagen adicional.
-- [ ] Se informa solamente lo que realmente se hizo; no se confunde redactar para X con publicarlo.
+- [ ] El texto publicado coincide con la **versión final cerrada por Nicolás**.
+- [ ] La entrada tiene la pregunta como título, la categoría correcta y una URL pública directa.
+- [ ] La imagen mide **1200 × 630**, está asignada como destacada y el título y el autor se leen completos.
+- [ ] Se abrió la URL pública y se comprobó que se ven título, imagen, categoría y texto.
+- [ ] Se entregó a Nicolás el **enlace directo al artículo**.
+- [ ] Se informa sólo lo que realmente se hizo.
 
-## ¿Cuál fue el primer ejemplo?
+## ¿Cuál fue el primer ejemplo con este flujo?
 
-**«¿Por qué Jesús no hizo sus milagros en Sodoma?»**, texto preparado por Nicolás con Claude y publicado con ChatGPT el **23 de octubre de 2026**.
+**«Si no fue mi elección nacer con la enfermedad del pecado, ¿por qué debería serlo ser restaurado de ella?»**, escrito por Nicolás con Claude, con imagen de ChatGPT, y publicado por Claude el **16 de noviembre de 2026**.
 
-- [Artículo individual](https://jesusyyo.com/2026/10/23/por-que-jesus-no-hizo-sus-milagros-en-sodoma/)
+- [Artículo individual](https://jesusyyo.com/2026/11/16/si-no-fue-mi-eleccion-nacer-con-la-enfermedad-del-pecado/)
 - [Índice «¿Alguna vez te preguntaste…?»](https://jesusyyo.com/category/alguna-vez-te-preguntaste/)
-
-El primer caso incluyó una infografía de WhatsApp, pero **esa pieza se eliminó del flujo habitual por decisión posterior de Nicolás**. El procedimiento vigente usa **una sola imagen** para WordPress y YouTube y, cuando Nicolás comparte el enlace del video publicado, enlaza YouTube desde el artículo y prepara una publicación para X con ambos enlaces. Lo valioso es **un texto original y una difusión conectada**, sin perder la voz de Nicolás.

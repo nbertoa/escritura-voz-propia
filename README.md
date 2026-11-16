@@ -12,7 +12,7 @@ No define el formato del libro (maquetación, portada, índice), que vive en otr
 | [`ESTILO.md`](ESTILO.md) | ¿Cómo se escribe cada frase, párrafo y capítulo? |
 | [`HECHOS-E-INTERPRETACION.md`](HECHOS-E-INTERPRETACION.md) | ¿Cómo se distinguen los hechos de las interpretaciones? |
 | [`TIPOS-DE-LIBRO.md`](TIPOS-DE-LIBRO.md) | ¿Qué cambia entre un libro narrativo-contemplativo, uno de investigación y un post? |
-| [`FLUJO-DE-PUBLICACION-POST.md`](FLUJO-DE-PUBLICACION-POST.md) | ¿Cómo se publica un post en el sitio y se preparan su imagen, YouTube e infografía para WhatsApp? |
+| [`FLUJO-DE-PUBLICACION-POST.md`](FLUJO-DE-PUBLICACION-POST.md) | ¿Cómo se publica un post en el sitio y cómo se hace su imagen destacada? |
 | [`FUENTES.md`](FUENTES.md) | ¿Qué Biblia se cita y qué fuentes no se usan? |
 | [`EJEMPLOS.md`](EJEMPLOS.md) | ¿Cómo se ve la voz en pares «así no / así sí»? |
 | [`VERIFICACION.md`](VERIFICACION.md) | ¿Qué se revisa antes de entregar un texto? |

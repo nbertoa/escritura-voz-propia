@@ -28,8 +28,10 @@ Es un texto corto para jesusyyo.com. Sigue la misma voz y la misma estructura, p
 - **Los hechos van como hechos y las opiniones como lecturas personales sustentadas.** Esa distinción se reconoce por el razonamiento, el contexto y los límites; no requiere insertar una muletilla en cada frase.
 - **Contrasta el tema con el Dios de amor que Jesús mostró.** Ésa es la pregunta de fondo de cada post.
 - **No se organiza como una disputa teológica contra otras personas o posturas.** Sí puede examinar explicaciones habituales, pensar sus implicaciones y hacer preguntas difíciles. El eje es lo que Nicolás quiere compartir, con orden, respeto y honestidad, no demostrar que otros están equivocados. Esto no autoriza a inventar ni torcer hechos: lo que se afirma como dato tiene que ser cierto.
+- **Nace de una pregunta real del autor**, no de un tema elegido para demostrar una doctrina. Si la pregunta es suya, la convicción aparece sola.
+- **Simple:** frases cortas y palabras de todos los días, sin imágenes ni modismos.
 - **Entra directo al planteo.** Sin introducciones del tipo «hay una frase que me cuesta leer».
-- **Cierra con una pregunta que el lector responde por su cuenta.** Sin moraleja, sin «¿qué hacemos nosotros con esto?», sin resumen.
+- **Cierra con una pregunta que el lector responde por su cuenta, o con la convicción del autor si él lo prefiere.** Sin moraleja, sin «¿qué hacemos nosotros con esto?», sin resumen.
 - Lo más corto posible.
 
 ### ¿Dónde se publica?
@@ -38,7 +40,7 @@ En la sección **«¿Alguna vez te preguntaste…?»** de jesusyyo.com. Es el mi
 
 ### ¿Cómo es el título?
 
-**Siempre una pregunta.** Directa y corta, como las de un chico: «¿Por qué Jesús no hizo sus milagros en Sodoma?».
+**Siempre una pregunta.** Directa y corta, como las de un chico: «¿Por qué Jesús no hizo sus milagros en Sodoma?». Si el autor formuló la pregunta, se usa con sus palabras, sin reformularla.
 
 ### ¿Qué imagen lleva?
 
@@ -48,13 +50,13 @@ Cada post lleva una **imagen destacada** (*featured image*), que es la que se ve
 - **El nombre del autor:** Nicolás Bertoa.
 - **Una imagen alusiva** a lo que trata el post.
 
-**Diseñar y exportar prioritariamente para la imagen destacada de WordPress, en formato horizontal exacto de 1200 × 630 píxeles (40:21).** Ésta es la medida de referencia, no la miniatura 16:9 de YouTube. **Reutilizar el mismo archivo, sin recortar ni modificar, como thumbnail del video de YouTube**; WordPress tiene prioridad cuando los encuadres difieren. También puede acompañar publicaciones en X y WhatsApp. El título tiene que leerse bien aunque la imagen se vea chica. **Dejar márgenes interiores seguros para que el título y el autor se vean completos en WordPress.** No generar una infografía separada.
+**Formato horizontal exacto de 1200 × 630 píxeles (40:21), pensado para la imagen destacada de WordPress.** El título tiene que leerse bien aunque la imagen se vea chica. **Dejar márgenes interiores seguros para que el título y el autor se vean completos en WordPress.** Una sola imagen: no se hacen infografías.
 
 ### ¿Qué se hace al terminar?
 
-El asistente publica el post íntegro y genera **una única imagen** para WordPress y YouTube, junto al título y la descripción del video; la descripción incluye el **enlace directo al artículo**. Una vez que Nicolás publica el video y envía su enlace, el asistente **agrega al final del post de WordPress un enlace para escucharlo y prepara un posteo para X con los enlaces directos al video y al artículo**. Nicolás copia y publica en X. Para estados y canal de WhatsApp se reutiliza la misma imagen; **no se hacen infografías**.
+Claude, que escribió el texto con Nicolás, lo publica íntegro en jesusyyo.com con el conector de WordPress.com. ChatGPT sólo genera la imagen destacada, a partir de un prompt que prepara Claude. **Los posts no se pasan a YouTube**: no se preparan título ni descripción de video ni posteos para X con el video.
 
-El procedimiento detallado (texto cerrado por Nicolás, publicación individual, imagen única, YouTube, actualización del artículo, posteo para X y verificaciones) está en **[FLUJO-DE-PUBLICACION-POST.md](FLUJO-DE-PUBLICACION-POST.md)**.
+El procedimiento detallado (quién hace qué, publicación, imagen y verificaciones) está en **[FLUJO-DE-PUBLICACION-POST.md](FLUJO-DE-PUBLICACION-POST.md)**.
 
 ## ¿Qué tienen en común?
 
